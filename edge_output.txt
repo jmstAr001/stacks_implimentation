@@ -1,0 +1,21 @@
+9
+-----
+3
+-----
+12.5
+=====
+5
+-----
+-20
+-----
+6.25
+-----
+3.333333
+-----
+Error: Division by zero
+-----
+Error: Mismatched parentheses
+-----
+Error: Expression ends with an operator
+-----
+Error: Invalid character '$'
